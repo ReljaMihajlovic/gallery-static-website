@@ -1,0 +1,121 @@
+ul.navbar-nav>li>a{
+    font-size: 20px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: bold;
+}   
+ul.navbar-nav>li>a:hover{
+    /* font-size: 21px; */
+}
+.dropdown-item{
+    font-size: 1rem;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: bold;
+}
+.rec{
+    font-size: 15px;
+    font-family: 'DM Sans', sans-serif;
+    text-transform: uppercase;
+    color:white;
+    letter-spacing: 0.2rem;
+    font-weight: lighter;
+}
+.naslov{
+    line-height: 3.4rem;
+    font-size: 50px;
+    font-family: 'DM Sans', sans-serif;
+    color:white;
+}
+.podnaslov{
+    font-size: 15px;
+    font-family: 'DM Sans', sans-serif;
+    color:white;
+    letter-spacing: 0.2rem;
+    font-weight: lighter;
+}
+.tekst{
+    text-align: justify;
+    line-height: 1rem;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: 'DM Sans', sans-serif;
+    color:white;
+}
+.btn-warning{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'DM Sans', sans-serif;
+    color:white;
+    background-color: #F1B505;
+    width: 200px;
+}
+.btn-warning:hover{
+    background-color: #F1B505;
+    color: white;
+}
+.tekst1{
+    font-size: 15px;
+    font-family: 'DM Sans', sans-serif;
+    text-transform: uppercase;
+    color:black;
+    letter-spacing: 0.1rem;
+    font-weight: lighter;
+}
+.crno{
+    font-size: 15px;
+    font-family: 'DM Sans', sans-serif;
+    color:black;
+    letter-spacing: 0.1rem;
+    font-weight: lighter;
+}
+.svetaoTekst{
+ color: #636161;
+ font-size: 10px;
+    font-family: 'DM Sans', sans-serif;
+    letter-spacing: 0.1rem;
+    font-weight: lighter;
+}
+.prekoSlike{
+    padding: 20px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: 'DM Sans', sans-serif;
+    
+}
+.prekoSlike2{
+    padding-top: 70px;
+    padding-left: 20px;
+ 
+    position: absolute;
+    color: white;
+    font-size: 15px;
+    font-family: 'DM Sans', sans-serif;
+    
+}
+.slika{
+    position: relative; 
+    width: 100%;
+}
+.prekoSlike3{
+    position: absolute; 
+    top: 200px; 
+    left: 0; 
+    width: 100%; 
+}
+.footerText{
+    color: #636161;
+    font-size: 10px;
+    font-family: 'DM Sans', sans-serif;
+    letter-spacing: 0.1rem;
+    font-weight: lighter; 
+}
+.buttonCollaps{
+    color:#434CCC;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 1.5rem;
+}
+.buttonCollapsed{
+    color:black;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 1.rem;
+}

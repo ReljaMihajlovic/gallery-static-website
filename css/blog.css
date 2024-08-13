@@ -1,0 +1,19 @@
+.customCardNaslov{
+    font-size: 25px;
+    font-family: 'DM Sans', sans-serif;
+    color: black;
+    font-weight: lighter;
+}
+.customCardTekst{
+    font-size: 15px;
+    font-family: 'DM Sans', sans-serif;
+    color: black;
+    font-weight: lighter;
+}
+.learnMore{
+    font-size: 14px;
+    font-weight: bold;
+    font-family: 'DM Sans', sans-serif;
+    color:black;
+    display: inline;
+}

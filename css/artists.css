@@ -1,0 +1,22 @@
+.crniNaslov{
+    padding-top: 5px;
+    font-size: 20px;
+    font-family: 'DM Sans', sans-serif;
+    color:black;
+    font-weight: 600;
+    line-height: 1.5rem;
+}
+.crniPodnaslov{
+    font-size: 16px;
+    font-family: 'DM Sans', sans-serif;
+    color:black;
+    font-weight: 100;
+    
+}
+.sivi{
+    font-size: 16px;
+    font-family: 'DM Sans', sans-serif;
+    color:rgb(100, 100, 100);
+    font-weight: 100;
+    line-height: 1rem;
+}
